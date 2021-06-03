@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/EvanGottschalk/ConnectFour">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="152" height="80">
   </a>
 
   <h3 align="center">Connect Four</h3>
