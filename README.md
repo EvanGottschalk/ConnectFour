@@ -6,12 +6,17 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
+<!-- Possibly unnecessary template section
+
 [![Contributors][contributors-shield]][https://github.com/EvanGottschalk]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/evan-gottschalk/]
+
+-->
 
 
 
@@ -41,6 +46,9 @@
 
 
 <!-- TABLE OF CONTENTS -->
+
+<!-- Possibly unnecessary template section
+
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
@@ -66,9 +74,14 @@
   </ol>
 </details>
 
+-->
 
 
 <!-- ABOUT THE PROJECT -->
+
+<!-- Possibly unnecessary template section
+
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -84,12 +97,19 @@ Here's a blank template to get started:
 * []()
 * []()
 
+-->
+
 
 
 <!-- GETTING STARTED -->
+
+<!-- Possibly unnecessary template section
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
+
+-->
 
 ### Prerequisites
 
@@ -98,6 +118,9 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
+
+
+<!-- Possibly unnecessary template section
 
 ### Installation
 
@@ -110,14 +133,21 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 
+-->
 
 
 <!-- USAGE EXAMPLES -->
+
+<!-- Possibly unnecessary template section
+
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
+
+
+-->
 
 
 
@@ -127,6 +157,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/EvanGottschalk/ConnectFour/issues) for a list of proposed features (and known issues).
 
 
+
+<!-- Possibly unnecessary template section
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -138,6 +170,8 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+-->
 
 
 
