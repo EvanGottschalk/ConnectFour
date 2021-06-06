@@ -1,11 +1,17 @@
-#Defines an class representative of a Connect Four game
+# PURPOSE - This program instatiates an instance of a Connect Four game with all of its rules
 
 class ConnectFour:   
 
     def __init__(self):
+    # A Connect Four board consists of 7 columns with 6 spaces each.
+    # self.__board represents the state of the board
+    # 0  : empty space
+    # 1  : black piece
+    # -1 : red piece
         self.__board = [[0,0,0,0,0,0], [0,0,0,0,0,0], [0,0,0,0,0,0],\
                         [0,0,0,0,0,0], [0,0,0,0,0,0], [0,0,0,0,0,0],\
                         [0,0,0,0,0,0], ]
+    # self.__player indicates whose turn it currently is. Since it is set to -1, red always goes first
         self.__player = -1
         self.__winner = ''
         self.__round = 0
