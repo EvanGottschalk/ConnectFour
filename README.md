@@ -35,7 +35,7 @@
     <a href="https://github.com/EvanGottschalk/ConnectFour"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/EvanGottschalk/ConnectFour">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=KN3nohBw_CE">View Demo</a>
     ·
     <a href="https://github.com/EvanGottschalk/ConnectFour/issues">Report Bug</a>
     ·
@@ -113,12 +113,11 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+-Python 3
+-tkinter Python package
+-time Python package
 
+The only requirement for this program is Python 3. The two pacakages used are tkinter and time, which are default packages of Python 3.
 
 <!-- Possibly unnecessary template section
 
@@ -154,32 +153,29 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
+I created this program as my final project for CS111 in 2011 at SUNY Binghamton. Ever since then, it sat untouched on an external harddrive as I worked on new projects.
+
+Its current functionality is limited to playing Connect Four with another person in-person. I am hoping to further develop the code by adding several features:
+-Customization of chip colors
+-Customization of rules: winning with 5 in a row instead of 4; 2 turns in a row per player instead of 1; etc.
+-Alternate games that use similar boards: Go, Chess, Checkers, etc.
+-In-browser playability
+
 See the [open issues](https://github.com/EvanGottschalk/ConnectFour/issues) for a list of proposed features (and known issues).
 
-
-
-<!-- Possibly unnecessary template section
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Please submit improvements or contact me directly with any fixes, improvements, or ideas. I am always trying to improve my code!
 
 -->
-
 
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
 
 
 <!-- CONTACT -->
@@ -190,15 +186,16 @@ Your Name - [@Fort1Evan](https://twitter.com/Fort1Evan) - magnus5557@gmail.com
 Project Link: [https://github.com/EvanGottschalk/ConnectFour](https://github.com/EvanGottschalk/ConnectFour)
 
 
-
 <!-- ACKNOWLEDGEMENTS -->
+
+<!-- Possibly unnecessary template section
 ## Acknowledgements
 
 * []()
 * []()
 * []()
 
-
+-->
 
 
 
