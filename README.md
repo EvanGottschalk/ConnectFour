@@ -114,8 +114,11 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 -Python 3
+
 -tkinter Python package
+
 -time Python package
+
 
 The only requirement for this program is Python 3. The two pacakages used are tkinter and time, which are default packages of Python 3.
 
@@ -156,10 +159,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 I created this program as my final project for CS111 in 2011 at SUNY Binghamton. Ever since then, it sat untouched on an external harddrive as I worked on new projects.
 
 Its current functionality is limited to playing Connect Four with another person in-person. I am hoping to further develop the code by adding several features:
+
 -Customization of chip colors
+
 -Customization of rules: winning with 5 in a row instead of 4; 2 turns in a row per player instead of 1; etc.
+
 -Alternate games that use similar boards: Go, Chess, Checkers, etc.
+
 -In-browser playability
+
 
 See the [open issues](https://github.com/EvanGottschalk/ConnectFour/issues) for a list of proposed features (and known issues).
 
@@ -168,8 +176,6 @@ See the [open issues](https://github.com/EvanGottschalk/ConnectFour/issues) for 
 ## Contributing
 
 Please submit improvements or contact me directly with any fixes, improvements, or ideas. I am always trying to improve my code!
-
--->
 
 
 <!-- LICENSE -->
@@ -181,7 +187,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Fort1Evan](https://twitter.com/Fort1Evan) - magnus5557@gmail.com
+Evan Gottschalk - [@Fort1Evan](https://twitter.com/Fort1Evan) - magnus5557@gmail.com
 
 Project Link: [https://github.com/EvanGottschalk/ConnectFour](https://github.com/EvanGottschalk/ConnectFour)
 
