@@ -9,10 +9,10 @@
 
 
 
-[![Contributors][contributors-shield]](https://github.com/EvanGottschalk)
+[![Contributors][contributors-shield]](https://github.com/EvanGottschalk/)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]](https://github.com/EvanGottschalk/ConnectFour/issues/)
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/evan-gottschalk/)
 
