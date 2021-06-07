@@ -160,7 +160,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 I created this program as my final project for CS111 in 2011 at SUNY Binghamton. For 10 years, it sat untouched on an external harddrive as I worked on new projects.
 
-On 5/31, I unearthed it and ran it for the first time. To my surprise, it ran (mostly) without error!
+On 5/31/21, I unearthed it and ran it for the first time. To my surprise, it ran (mostly) without error!
 
 Since rediscovering it, I fixed its errors, and added a new feature that I always wanted the original to have: animation. Specifically, an animation of the Connect Four chips falling into place. I added this new feature via the `time` package.
 
