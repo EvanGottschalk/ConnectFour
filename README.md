@@ -117,12 +117,12 @@ To get a local copy up and running follow these simple steps.
 
 -Python 3
 
--tkinter Python package
+-`tkinter` Python package
 
--time Python package
+-`time` Python package
 
 
-The only requirement for this program is Python 3. The two pacakages used are tkinter and time, which are default packages of Python 3.
+The only requirement for this program is Python 3. The two pacakages used are `tkinter` and `time`, which are both default packages of Python 3.
 
 <!-- Possibly unnecessary template section
 
@@ -158,7 +158,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-I created this program as my final project for CS111 in 2011 at SUNY Binghamton. Ever since then, it sat untouched on an external harddrive as I worked on new projects.
+I created this program as my final project for CS111 in 2011 at SUNY Binghamton. For 10 years, it sat untouched on an external harddrive as I worked on new projects.
+
+On 5/31, I unearthed it and ran it for the first time. To my surprise, it ran (mostly) without error!
+
+Since rediscovering it, I fixed its errors, and added a new feature that I always wanted the original to have: animation. Specifically, an animation of the Connect Four chips falling into place. I added this new feature via the `time` package.
 
 Its current functionality is limited to playing Connect Four with another person in-person. I am hoping to further develop the code by adding several features:
 
